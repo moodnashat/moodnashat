@@ -19,9 +19,34 @@ Currently exploring the world of **HTML, CSS, JavaScript** and building real pro
 ## 📌 Featured Projects
 
 ### 🌐 [Portfolio Website](https://moodnashat.github.io/portfolio/)
+![Portfolio Screenshot](https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=800)
 My personal website showcasing my skills, projects, and contact information.
 
+---
+
 ### 🧮 [Calculator](https://moodnashat.github.io/calculator/)
+![Calculator Screenshot](https://images.unsplash.com/photo-1581090700227-4c4f50f8e3d3?w=800)
 A simple and interactive calculator built with HTML, CSS, and JavaScript.
 
-### 📝 [To‑Do List App](h)
+---
+
+### 📝 [To‑Do List App](https://moodnashat.github.io/todo-list/)
+![To‑Do Screenshot](https://images.unsplash.com/photo-1557804506-669a67965ba0?w=800)
+An easy-to-use to-do list application to manage daily tasks.
+
+---
+
+## 🛠 Skills & Tools
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
+---
+
+## 📊 GitHub Stats
+![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moodnashat&show_icons=true&theme=radical)
+
+---
+
+> *“Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.”* – Patrick McKenzie
