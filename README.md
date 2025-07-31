@@ -19,28 +19,31 @@ Currently exploring the world of **HTML, CSS, JavaScript, Python** and building 
 
 ## 📌 Featured Projects
 
-### 🌐 [Portfolio Website](https://moodnashat.github.io/portfolio/)
+### 🌐 **Portfolio Website**
 ![Portfolio Screenshot](https://moodnashat.github.io/portfolio/portfolio.png)  
-My personal website showcasing my skills, projects, and contact information.
+📍 My personal website showcasing my skills, projects, and contact information.  
+[🔗 View Live](https://moodnashat.github.io/portfolio/) | [💻 View Code](https://github.com/moodnashat/portfolio)
 
 ---
 
-### 🧮 [Calculator](https://moodnashat.github.io/calculator/)
+### 🧮 **Calculator**
 ![Calculator Screenshot](https://moodnashat.github.io/portfolio/calculator.png)  
-A simple and interactive calculator built with HTML, CSS, and JavaScript.
+📍 A simple and interactive calculator built with HTML, CSS, and JavaScript.  
+[🔗 View Live](https://moodnashat.github.io/calculator/) | [💻 View Code](https://github.com/moodnashat/calculator)
 
 ---
 
-### 📝 [To‑Do List App](https://moodnashat.github.io/todo-list/)
+### 📝 **To‑Do List App**
 ![To‑Do Screenshot](https://moodnashat.github.io/portfolio/todo.png)  
-An easy-to-use to-do list application to manage daily tasks.
+📍 An easy-to-use to-do list application to manage daily tasks.  
+[🔗 View Live](https://moodnashat.github.io/todo-list/) | [💻 View Code](https://github.com/moodnashat/todo-list)
 
 ---
 
-### 🐍 [BMI Calculator (Python)](https://a7c44c68-9b4c-4a89-a650-cc2f00624440-00-2pdrjwdpezn7f.worf.replit.dev/)
+### 🐍 **BMI Calculator (Python)**
 ![Python Project](https://moodnashat.github.io/portfolio/python.png)  
-A simple Python script to calculate Body Mass Index (BMI) with a web interface.  
-Works directly in your browser without needing to install Python.
+📍 A simple Python script to calculate Body Mass Index (BMI) with a web interface. Works directly in your browser.  
+[![Run on Replit](https://img.shields.io/badge/Run%20on%20Replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://a7c44c68-9b4c-4a89-a650-cc2f00624440-00-2pdrjwdpezn7f.worf.replit.dev/) | [💻 View Code](https://github.com/moodnashat/python-bmi-calculator)
 
 ---
 
