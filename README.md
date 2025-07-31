@@ -19,19 +19,19 @@ Currently exploring the world of **HTML, CSS, JavaScript** and building real pro
 ## 📌 Featured Projects
 
 ### 🌐 [Portfolio Website](https://moodnashat.github.io/portfolio/)
-![Portfolio Screenshot](https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=800)
+![Portfolio Screenshot](https://moodnashat.github.io/portfolio/portfolio.png)  
 My personal website showcasing my skills, projects, and contact information.
 
 ---
 
 ### 🧮 [Calculator](https://moodnashat.github.io/calculator/)
-![Calculator Screenshot](https://images.unsplash.com/photo-1581090700227-4c4f50f8e3d3?w=800)
+![Calculator Screenshot](https://moodnashat.github.io/portfolio/calculator.png)  
 A simple and interactive calculator built with HTML, CSS, and JavaScript.
 
 ---
 
 ### 📝 [To‑Do List App](https://moodnashat.github.io/todo-list/)
-![To‑Do Screenshot](https://images.unsplash.com/photo-1557804506-669a67965ba0?w=800)
+![To‑Do Screenshot](https://moodnashat.github.io/portfolio/todo.png)  
 An easy-to-use to-do list application to manage daily tasks.
 
 ---
