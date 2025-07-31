@@ -41,6 +41,12 @@ An easy-to-use to-do list application to manage daily tasks.
 ![Python Project](https://moodnashat.github.io/portfolio/python.png)  
 A simple Python script to calculate Body Mass Index (BMI) based on height and weight.
 
+## 🚀 How to Run
+1. Make sure you have Python installed.
+2. Run the script:
+```bash
+python bmi_calculator.py
+
 ---
 
 ## 🛠 Skills & Tools
