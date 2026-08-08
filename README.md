@@ -1,79 +1,177 @@
 # 👋 Hi, I'm Mahmoud Nashat
 
-### 📊 Aspiring Data Analyst | Excel | SQL | Power BI | Python
+### 📊 Aspiring Data Analyst | Excel • SQL • Power BI • Python
 
-I'm transitioning into **Data Analysis**, combining my programming background and industrial experience with practical skills in data cleaning, analysis, visualization, and business reporting.
+I'm transitioning into **Data Analysis**, combining a programming background with practical experience in **industrial automation, robotics, and manufacturing**.
 
-Currently building my portfolio with **Excel, SQL, Power BI, and Python**.
+My current focus is building hands-on projects that turn raw data into **KPIs, dashboards, business insights, and actionable analysis**.
 
 ---
 
-## 👨‍💻 About Me
+## 🎯 Current Focus
 
-- 📊 **Career Focus:** Data Analysis
-- 📈 **Currently Learning:** Excel, SQL, Power BI, and Python for Data Analysis
-- 🧹 Practicing data cleaning, transformation, analysis, and visualization
-- 🤖 Professional background in industrial automation, robotics, and manufacturing
-- 💻 Previous programming experience with Python, JavaScript, HTML, CSS, and Java
-- 🎯 **Goal:** Build a strong Data Analyst portfolio and move into my first professional Data Analyst role
-- 🌍 Egypt 🇪🇬
+**Excel → SQL → Power BI → Python**
+
+I'm building one connected portfolio around the same business problems, using different analytics tools to demonstrate both technical and analytical skills.
 
 ---
 
 ## 🛠️ Data Analytics Toolkit
 
-| Area | Tools & Skills |
+| Area | Skills |
 |---|---|
-| 📊 Spreadsheet Analysis | Excel, formulas, PivotTables, data cleaning |
-| 📈 Business Intelligence | Power BI, dashboards, KPIs, visualization |
-| 🗄️ Databases | SQL, filtering, aggregation, JOINs, business queries |
-| 🐍 Programming | Python, Pandas, NumPy, Matplotlib |
-| 🏭 Domain Knowledge | Manufacturing, production, industrial automation |
-
-> I'm actively developing these skills through hands-on projects. My repositories will be updated as each project is completed.
+| 📊 Excel | Data cleaning, formulas, PivotTables, PivotCharts, dashboards |
+| 🗄️ SQL | Filtering, aggregation, GROUP BY, JOINs, analytical queries |
+| 📈 Power BI | KPIs, dashboards, visualization, business reporting |
+| 🐍 Python | Pandas, NumPy, Matplotlib, Exploratory Data Analysis |
+| 🏭 Domain Knowledge | Manufacturing, production, quality, downtime, industrial automation |
 
 ---
 
-## 📂 Portfolio Projects
+# 📂 Featured Data Analysis Projects
 
-### 📊 Excel
-**Coming next:** Data cleaning, PivotTables, business analysis, and an interactive dashboard.
+## 1. 📊 Excel Sales Analysis
 
-### 🗄️ SQL
-**Coming next:** Business questions, aggregations, JOINs, and analytical queries.
+**Business problem:** Analyze sales performance across regions, categories, products, and months.
 
-### 📈 Power BI
-**Coming next:** Interactive dashboard with KPIs, trends, filters, and business insights.
+**What I demonstrate:**
+- Data cleaning
+- KPI calculation
+- PivotTable analysis
+- Regional and category analysis
+- Monthly sales trends
+- Dashboard design
+- Business insights
 
-### 🐍 Python
-**Coming next:** Exploratory Data Analysis using Pandas, NumPy, and Matplotlib.
+**Key findings from the current dataset:**
+- Total Sales: **450,350**
+- Orders: **24**
+- Quantity Sold: **142**
+- Average Order Value: **18,764.58**
+- Top Region: **Cairo**
+- Top Category: **Electronics**
+- Top Product: **Laptop**
 
-### 🏭 Manufacturing Analytics
-**Planned:** A data analysis project inspired by real manufacturing scenarios, including production, quality, downtime, and efficiency KPIs.
+👉 [View Excel project](https://github.com/moodnashat/portfolio/tree/main/projects/excel-sales-analysis)
 
 ---
 
-## 💻 Technical Background
+## 2. 🗄️ SQL Sales Analysis
 
-Before focusing on Data Analysis, I built experience in programming and industrial automation. This background helps me approach data from both a technical and real-world manufacturing perspective.
+The same sales dataset is analyzed using SQL to answer business questions through structured queries.
 
-- 🤖 Industrial robotics and automation
+**Skills demonstrated:**
+- SELECT
+- SUM / COUNT / AVG
+- GROUP BY
+- ORDER BY
+- Date analysis
+- Regional and product performance
+- Business-oriented analytical queries
+
+👉 [View SQL project](https://github.com/moodnashat/portfolio/tree/main/projects/sql-data-analysis)
+
+---
+
+## 3. 📈 Power BI Sales Dashboard
+
+A Business Intelligence dashboard based on the same sales dataset.
+
+**Dashboard focus:**
+- Total Sales
+- Total Orders
+- Total Quantity
+- Average Order Value
+- Monthly trend
+- Regional performance
+- Category performance
+- Product performance
+
+👉 [View Power BI project](https://github.com/moodnashat/portfolio/tree/main/projects/powerbi-dashboard)
+
+> The Power BI documentation and data model are prepared; the `.pbix` file will be added after the dashboard is built in Power BI Desktop.
+
+---
+
+## 4. 🐍 Python Sales EDA
+
+Exploratory Data Analysis using **Python, Pandas, and Matplotlib** on the same sales dataset.
+
+**Analysis includes:**
+- Data structure and quality checks
+- Missing-value inspection
+- KPI calculation
+- Sales by region
+- Sales by category
+- Monthly sales trend
+- Automated charts
+
+👉 [View Python project](https://github.com/moodnashat/portfolio/tree/main/projects/python-data-analysis)
+
+---
+
+## 5. 🏭 Manufacturing Data Analysis
+
+A portfolio case study designed around manufacturing operations and industrial KPIs.
+
+**Business areas:**
+- Production output
+- Target achievement
+- Defect rate
+- Downtime
+- Good units
+- Machine/production efficiency
+
+This project connects my **industrial automation background** with Data Analysis and demonstrates how analytics can support manufacturing decisions.
+
+👉 [View Manufacturing project](https://github.com/moodnashat/portfolio/tree/main/projects/manufacturing-analysis)
+
+---
+
+# 💡 Why Data Analysis?
+
+My background in programming and industrial automation gives me a practical understanding of technical systems and manufacturing environments. I'm now combining that experience with Data Analysis to solve business and operational problems using data.
+
+---
+
+## 💻 Previous Programming Background
+
+- 🤖 Industrial robotics & automation
 - 🐍 Python
 - 🌐 HTML / CSS / JavaScript
 - ☕ Java
+
+These projects remain part of my GitHub history while my **current professional direction is Data Analysis**.
+
+---
+
+## 📊 Portfolio Roadmap
+
+```text
+Excel
+  ↓
+SQL
+  ↓
+Power BI
+  ↓
+Python
+  ↓
+Manufacturing Analytics
+  ↓
+Professional Data Analyst Role
+```
 
 ---
 
 ## 🔗 Connect With Me
 
-- 📫 **Email:** [nashat514@gmail.com](mailto:nashat514@gmail.com)
-- 🔗 **LinkedIn:** [Mahmoud Nashat](https://www.linkedin.com/in/mahmoud-nashat-517551164)
-- 💻 **GitHub:** [github.com/moodnashat](https://github.com/moodnashat)
+- 📫 Email: [nashat514@gmail.com](mailto:nashat514@gmail.com)
+- 🔗 LinkedIn: [Mahmoud Nashat](https://www.linkedin.com/in/mahmoud-nashat-517551164)
+- 💻 GitHub: [github.com/moodnashat](https://github.com/moodnashat)
+- 🌍 Egypt 🇪🇬
 
 ---
 
-## 🎯 Current Goal
+### ⭐ Thanks for visiting my profile!
 
-> Build a practical Data Analyst portfolio using **Excel → SQL → Power BI → Python**, then transition into a professional Data Analyst role.
-
-⭐ Thanks for visiting my profile and following my learning journey!
+I'm continuously improving my analytics skills and adding practical projects to this portfolio.
